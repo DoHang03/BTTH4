@@ -1,0 +1,11 @@
+E:\Đồ án 1 _ new\BUS\bin\Debug\BUS.dll
+E:\Đồ án 1 _ new\BUS\bin\Debug\BUS.pdb
+E:\Đồ án 1 _ new\BUS\bin\Debug\DAL.dll
+E:\Đồ án 1 _ new\BUS\bin\Debug\DTO.dll
+E:\Đồ án 1 _ new\BUS\bin\Debug\DAL.pdb
+E:\Đồ án 1 _ new\BUS\bin\Debug\DTO.pdb
+E:\Đồ án 1 _ new\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Đồ án 1 _ new\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Đồ án 1 _ new\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Đồ án 1 _ new\BUS\obj\Debug\BUS.dll
+E:\Đồ án 1 _ new\BUS\obj\Debug\BUS.pdb

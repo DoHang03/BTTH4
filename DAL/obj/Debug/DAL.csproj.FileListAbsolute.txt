@@ -1,0 +1,9 @@
+E:\Đồ án 1 _ new\DAL\bin\Debug\DAL.dll
+E:\Đồ án 1 _ new\DAL\bin\Debug\DAL.pdb
+E:\Đồ án 1 _ new\DAL\bin\Debug\DTO.dll
+E:\Đồ án 1 _ new\DAL\bin\Debug\DTO.pdb
+E:\Đồ án 1 _ new\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Đồ án 1 _ new\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Đồ án 1 _ new\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Đồ án 1 _ new\DAL\obj\Debug\DAL.dll
+E:\Đồ án 1 _ new\DAL\obj\Debug\DAL.pdb
